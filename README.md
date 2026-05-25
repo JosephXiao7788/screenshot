@@ -1,4 +1,4 @@
-#screenshot
+# screenshot
 > Native super-resolution screenshot tool powered by **NVIDIA DSR** and **AMD VSR**.
 > 基于 **NVIDIA DSR** 与 **AMD VSR** 的原生超分辨率截图工具。
 
