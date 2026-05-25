@@ -1,4 +1,4 @@
-# SuperShot
+#screenshot
 
 > Native super-resolution screenshot tool powered by **NVIDIA DSR** and **AMD VSR**.
 > 基于 **NVIDIA DSR** 与 **AMD VSR** 的原生超分辨率截图工具。
@@ -135,7 +135,7 @@ MIT
 
 ## 🇨🇳 中文
 
-SuperShot 在你按下截图热键的瞬间，临时把显示器切换到更高分辨率（例如通过 DSR/VSR 切到 4K），抓取显卡渲染出的原生超分帧缓冲区，再切回原分辨率——整个过程被冻结层遮挡，用户无感知。
+screenshot 在你按下截图热键的瞬间，临时把显示器切换到更高分辨率（例如通过 DSR/VSR 切到 4K），抓取显卡渲染出的原生超分帧缓冲区，再切回原分辨率——整个过程被冻结层遮挡，用户无感知。
 
 **不是插值放大，而是显卡真实渲染的超分数据。**
 
